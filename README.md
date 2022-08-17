@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho como analista de dados;
+- 🔭 Atualmente trabalho como analista de BI;
 - 🌱 Estou aprendendo Streamlit, Dash e outros frameworks.
 
 <div align="center">
