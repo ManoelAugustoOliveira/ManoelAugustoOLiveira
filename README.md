@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho como analista de BI;
-- 🌱 Estou aprendendo Streamlit, Dash e outros frameworks.
+- 🔭 Atualmente trabalho com analise de dados;
+- 🌱 Estou aprendendo R, e JavaScript.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
