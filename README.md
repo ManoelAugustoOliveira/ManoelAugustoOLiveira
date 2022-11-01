@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Trabalho como Analista de Inteligência de negócios;
+- 🔭 Trabalho como Analista de Inteligência de Negócios;
 - 🌱 Estou aprendendo Big Data, Python, JavaScript.
 
 <div align="center">
