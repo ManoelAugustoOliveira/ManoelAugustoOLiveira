@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho com analise de dados;
-- 🌱 Estou aprendendo R, e JavaScript.
+- 🔭 Trabalho como Analista de Inteligência de negócios;
+- 🌱 Estou aprendendo Big Data, Python, JavaScript.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
